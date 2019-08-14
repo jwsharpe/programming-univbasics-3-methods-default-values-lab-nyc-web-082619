@@ -5,3 +5,6 @@ def meal_choice(veg1, veg2, protein = "meat")
   puts message
   return message
 end
+
+meal_choice("hi","hi","hiii")
+meal_choice("hi","hi")
